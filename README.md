@@ -1,1 +1,1 @@
-•	VAR model analysis on FTSE, DAX and CAC40 index data using e-views. Confirmed stationarity of the data with unit root tests and performed Cointegration and Granger causality test. Visualised impulse response for returns.![image](https://user-images.githubusercontent.com/40534076/221948555-73501b1d-7610-41a3-bc29-7aa71fbf0e14.png)
+•	VAR model analysis on FTSE, DAX and CAC40 index data using e-views. Confirmed stationarity of the data with unit root tests and performed Cointegration and Granger causality test. Visualised impulse response for returns.
